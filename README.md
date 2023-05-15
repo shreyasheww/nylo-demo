@@ -2,8 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/nylo-core/nylo/releases"><img src="https://img.shields.io/github/v/release/nylo-core/nylo?style=plastic" alt="Latest Release Version"></a>
-  <a href="https://github.com/nylo-core/nylo/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/nylo-core/nylo?style=plastic"></a>
-  <a href="#"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nylo-core/nylo?style=plastic"></a>
 </p>
 
 ## Nylo (v4.3.1)
@@ -32,7 +30,7 @@ Some core features available
 ## Getting Started
 
 ``` bash
-git clone https://github.com/nylo-core/nylo.git
+git clone https://github.com/shreyasheww/nylo-demo.git
 ```
 
 ## Documentation
