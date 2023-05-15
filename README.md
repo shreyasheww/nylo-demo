@@ -1,11 +1,3 @@
-![Nylo Banner](https://nylo.dev/images/nylo_logo_header.png)
-
-<p align="center">
-  <a href="https://github.com/nylo-core/nylo/releases"><img src="https://img.shields.io/github/v/release/nylo-core/nylo?style=plastic" alt="Latest Release Version"></a>
-</p>
-
-## Nylo (v4.3.1)
-
 Nylo is a micro-framework for Flutter which is designed to help simplify developing apps. Every project provides a simple boilerplate and MVC pattern to help you build apps easier. 
 
 This project is open source and MIT-licenced, we welcome any contributions. You can join as a backer/sponsor to fund future development for this project [here](https://nylo.dev)
