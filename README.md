@@ -33,6 +33,6 @@ Please see [CHANGELOG](https://github.com/nylo-core/framework/blob/4.x/CHANGELOG
 
 
 ## Security
-If you discover any security related issues, please email support@nylo.dev instead of using the issue tracker.
+If you discover any security related issues, please email shreyashjotangiya@excellentwebworld.in instead of using the issue tracker.
 
 
