@@ -1,10 +1,22 @@
+import 'dart:math';
+
 import 'package:flutter/widgets.dart';
-import 'package:url_launcher/url_launcher.dart';
+import 'package:flutter_app/app/model/post_model.dart';
+import 'package:flutter_app/app/networking/api_service.dart';
+import 'package:flutter_app/bootstrap/helpers.dart';
 import 'controller.dart';
 
 class HomeController extends Controller {
+
+  bool darkMode = false;
+  Random randomPositionSlider = Random();
+  Random randomPositionAdBanner = Random();
+  Random randomPositionCategory = Random();
+
+
+
   @override
-  construct(BuildContext context) {
+  construct(BuildContext context) async {
     super.construct(context);
   }
 
